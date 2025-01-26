@@ -1,0 +1,11 @@
+C:\Users\franm\Documents\Projects\UtilInfoPC\bin\Release\net8.0\UtilInfoPC.deps.json
+C:\Users\franm\Documents\Projects\UtilInfoPC\bin\Release\net8.0\UtilInfoPC.dll
+C:\Users\franm\Documents\Projects\UtilInfoPC\bin\Release\net8.0\UtilInfoPC.pdb
+C:\Users\franm\Documents\Projects\UtilInfoPC\obj\Release\net8.0\UtilInfoPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franm\Documents\Projects\UtilInfoPC\obj\Release\net8.0\UtilInfoPC.AssemblyInfoInputs.cache
+C:\Users\franm\Documents\Projects\UtilInfoPC\obj\Release\net8.0\UtilInfoPC.AssemblyInfo.cs
+C:\Users\franm\Documents\Projects\UtilInfoPC\obj\Release\net8.0\UtilInfoPC.csproj.CoreCompileInputs.cache
+C:\Users\franm\Documents\Projects\UtilInfoPC\obj\Release\net8.0\UtilInfoPC.dll
+C:\Users\franm\Documents\Projects\UtilInfoPC\obj\Release\net8.0\refint\UtilInfoPC.dll
+C:\Users\franm\Documents\Projects\UtilInfoPC\obj\Release\net8.0\UtilInfoPC.pdb
+C:\Users\franm\Documents\Projects\UtilInfoPC\obj\Release\net8.0\ref\UtilInfoPC.dll
