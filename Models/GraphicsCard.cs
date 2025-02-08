@@ -12,7 +12,7 @@ namespace UtilInfoPC.Models
         [Required]
         [MaxLength(100)]
         public string Model { get; set; }
-        public decimal MemoryGB { get; set; }
+        public int MemoryGB { get; set; }
         [MaxLength(50)]
         public string Type { get; set; }
 
