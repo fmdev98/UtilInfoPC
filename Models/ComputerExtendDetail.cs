@@ -24,7 +24,7 @@ namespace UtilInfoPC.Models
         public string? StorageMemoryType { get; set; }
         public string? Brand { get; set; }
         public string? GraphicsCardModel { get; set; }
-        public decimal? GraphicsCardMemory { get; set; }
+        public int? GraphicsCardMemory { get; set; }
         public string? GraphicsCardType { get; set; }
         public string? ImageUrl { get; set; }
     }
