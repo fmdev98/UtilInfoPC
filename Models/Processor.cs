@@ -14,8 +14,5 @@ namespace UtilInfoPC.Models
         public string Model { get; set; }
         public decimal Frequency { get; set; }
         public int Cores { get; set; }
-
-        [ForeignKey("BrandID")]
-        public Brand Brand { get; set; }
     }
 }

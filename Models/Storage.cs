@@ -16,18 +16,5 @@ namespace UtilInfoPC.Models
         public int ProtocolID { get; set; }
         public int ConnectionTypeID { get; set; }
         public int MemoryTypeID { get; set; }
-
-        [ForeignKey("BrandID")]
-        public Brand Brand { get; set; }
-        [ForeignKey("StorageTypeID")]
-        public StorageType StorageType { get; set; }
-        [ForeignKey("InterfaceID")]
-        public Interface Interface { get; set; }
-        [ForeignKey("ProtocolID")]
-        public Protocol Protocol { get; set; }
-        [ForeignKey("ConnectionTypeID")]
-        public ConnectionType ConnectionType { get; set; }
-        [ForeignKey("MemoryTypeID")]
-        public MemoryType MemoryType { get; set; }
     }
 }
